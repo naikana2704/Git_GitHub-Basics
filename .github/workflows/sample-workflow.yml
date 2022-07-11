@@ -4,5 +4,5 @@ jobs:
     Explore-github-action:
       runs-on: ubuntu-latest
       steps:
-      - run: echo:"This is a automatically triggered"
+      - run: echo This is a automatically triggered
       
